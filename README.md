@@ -19,7 +19,9 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
+* [Create React App (tool for creating and managing react apps)](https://facebook.github.io/create-react-app/docs/getting-started)
+* [React (library for building UI)](https://reactjs.org/)
+* [Jest (test runner)](https://jestjs.io/docs/en/getting-started)
+* [Axios (optional HTTP request client)](https://github.com/axios/axios)
+* [Bootstrap (optional css framework)](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* [React Testing Library (optional testing library)](https://testing-library.com/docs/intro)
