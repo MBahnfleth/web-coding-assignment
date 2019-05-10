@@ -7,3 +7,53 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.error {
+    border: 1px solid red;
+    color: red;
+}
+
+input {
+    text-align: center;
+}
+
+.link-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  #text-decoration: underline;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+
+.link-button:hover,
+.link-button:focus {
+    text-decoration: none;
+}
+
+.current-page {
+    background-color: aqua;
+}
+
+.image img {
+    position: relative;
+    -webkit-transition: all 1s ease;
+}
+
+.image:hover img {
+    -webkit-transform:scale(3);
+    z-index: 999;
+}
+
+.container {
+    max-width: 90%;
+}
+
+.portrait {
+    padding-top: 20px;
+}
+
+.list {
+    min-height: 800px;
+}
